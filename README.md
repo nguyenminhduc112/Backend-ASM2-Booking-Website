@@ -1,5 +1,4 @@
 # Hotel Booking Website (Server)
-A website for expeditiously searching for and booking rooms at hotels is called Hotel Booking. This project, which I created using the RestFull API, has a management system in addition to splitting the frontend and backend into two separate projects. Managing lodging facilities, rooms, etc., this project will keep enhancing features.
 
 ## Technologies Used
 - Express 4.18.2
